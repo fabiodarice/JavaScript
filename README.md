@@ -1,4 +1,4 @@
 # JavaScript
- Curso de JavaScript
- 
- Curso em Vídeo - Professor Gustavo Guanabara
+## Curso em Vídeo
+
+Professor Gustavo Guanabara
